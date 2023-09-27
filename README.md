@@ -1,7 +1,6 @@
 # Microsoft-Movie-Studio-Analysis
 Phase 1 Project
 Analysis For Microsoft Movie Studio
-example
 
 Overview
 
